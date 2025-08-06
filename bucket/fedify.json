@@ -1,12 +1,12 @@
 {
-    "version": "1.8.1",
+    "version": "1.8.3",
     "description": "CLI toolchain for Fedify and debugging ActivityPub",
     "homepage": "https://fedify.dev/cli",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/fedify-dev/fedify/releases/download/1.8.1/fedify-cli-1.8.1-windows-x86_64.zip",
-            "hash": "4ec6517893d6d0412b24ab7985fe3cca343f755504a448a82efc5fe294e2d440"
+            "url": "https://github.com/fedify-dev/fedify/releases/download/1.8.3/fedify-cli-1.8.3-windows-x86_64.zip",
+            "hash": "29209bf2199f603e4ae069526485a6e7baf9cd5b5d40a08b6cdb5c9007f88409"
         }
     },
     "bin": "fedify.exe",
