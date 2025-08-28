@@ -1,13 +1,13 @@
 {
     "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
-    "version": "0.29.0",
+    "version": "0.29.1",
     "description": "A configuration as code language with rich validation and tooling.",
     "homepage": "https://pkl-lang.org/",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/apple/pkl/releases/download/0.29.0/pkl-windows-amd64.exe#/pkl.exe",
-            "hash": "4c33c4476e3f5eef25327f577da252aa2f230a01e057034bec3318f7331eb852"
+            "url": "https://github.com/apple/pkl/releases/download/0.29.1/pkl-windows-amd64.exe#/pkl.exe",
+            "hash": "5388dddb8f9832233707cc48e77343ae65a7684bca19d94454d096cc66bb3e70"
         }
     },
     "bin": "pkl.exe",
