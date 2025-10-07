@@ -1,5 +1,5 @@
 {
-    "version": "1.4.321.1",
+    "version": "1.4.328.0",
     "description": "SDK for new generation graphics and compute API",
     "homepage": "https://www.vulkan.org",
     "license": {
@@ -13,8 +13,8 @@
         "Allow vulkan applications to find VK layers provided by Khronos, run \"$dir\\install-vk-layers.ps1\"",
         "(\"powershell \"$dir\\install-vk-layers.ps1\"\" under cmd)"
     ],
-    "url": "https://sdk.lunarg.com/sdk/download/1.4.321.1/windows/vulkansdk-windows-X64-1.4.321.1.exe#/dl.7z",
-    "hash": "baaa4f7ca11ed3d82aa1c102b21208915485bbaa473068c763daa425cca468bd",
+    "url": "https://sdk.lunarg.com/sdk/download/1.4.328.0/windows/vulkansdk-windows-X64-1.4.328.0.exe#/dl.7z",
+    "hash": "51be0a71e88eda3c50cfdc6dfba4c0bda7da0478810c7a94ee7fb17bb23ec537",
     "pre_install": "Remove-Item \"$dir\\`$*\", \"$dir\\Uninstal*\" -Recurse",
     "post_install": [
         "$script_path = \"$bucketsdir\\main\\scripts\\$app\\install-vk-layers.ps1\"",
