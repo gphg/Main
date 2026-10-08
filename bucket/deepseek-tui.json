@@ -1,6 +1,6 @@
 {
     "##": "Deprecate this manifest after 2026-09-01.",
-    "version": "0.10.0",
+    "version": "0.10.1",
     "description": "Coding agent for DeepSeek models that runs in your terminal (Deprecated, please use `main/codewhale` instead).",
     "homepage": "https://deepseek-tui.com/en",
     "notes": "This manifest is deprecated and scheduled for removal on 2026-09-01. Please use `main/codewhale` instead.",
@@ -11,12 +11,12 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://github.com/Hmbown/CodeWhale/releases/download/v0.10.0/codewhale-tui-windows-x64.exe#/codewhale-tui.exe",
-                "https://github.com/Hmbown/CodeWhale/releases/download/v0.10.0/codewhale-windows-x64.exe#/codewhale.exe"
+                "https://github.com/Hmbown/CodeWhale/releases/download/v0.10.1/codewhale-tui-windows-x64.exe#/codewhale-tui.exe",
+                "https://github.com/Hmbown/CodeWhale/releases/download/v0.10.1/codewhale-windows-x64.exe#/codewhale.exe"
             ],
             "hash": [
-                "f7b35a1e928f67884637f36b01fc72854f50690130f191bac3bcf62ece3c1d84",
-                "f7b35a1e928f67884637f36b01fc72854f50690130f191bac3bcf62ece3c1d84"
+                "76a6156baa8be350d12cb3d5d049ce1d796597da8475470d3179b51d47d22729",
+                "76a6156baa8be350d12cb3d5d049ce1d796597da8475470d3179b51d47d22729"
             ]
         }
     },
