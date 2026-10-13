@@ -1,12 +1,12 @@
 {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "Minimal terminal coding harness",
     "homepage": "https://pi.dev",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/earendil-works/pi/releases/download/v1.1.0/pi-windows-x64.zip",
-            "hash": "98e3a14e13685a4836a10865bd7887bdc2fcfa1086120313420dc935a401d3d6"
+            "url": "https://github.com/earendil-works/pi/releases/download/v1.2.0/pi-windows-x64.zip",
+            "hash": "bd272b508657ad8d0ac6176e7751913c848a89cfb8cbe21ff319941e6ca140be"
         }
     },
     "bin": "pi.exe",
